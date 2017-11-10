@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <sample
+        id="100"
+        name="小西"
+    />
+    <sample
+        id="101"
+        name="裕治"
+    />
+</dataset>
